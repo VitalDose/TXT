@@ -1,0 +1,1 @@
+Skills - Основы работы с bash, Снифинг http web трафика через Charles и Fiddler, Настройка прокси и vpn на iOS и Android, Управление Android девайсами с помощью ADB и т.д.
