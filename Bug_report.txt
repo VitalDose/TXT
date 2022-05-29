@@ -1,0 +1,13 @@
+Reporter : Valera Batkovich
+ID : 04879
+Status : New
+Name : Button Commit changes doesn't work",
+Summary : After adding new info in file and pressing button commit changes page doesn't update",
+STR:
+  1. Open file in repository
+  2. Edit the file
+  3. Press Commit changes button
+Expected result : Page updates and redirect user to repository
+Actual result : Page stays still
+Priority : 1
+Severity : critical
